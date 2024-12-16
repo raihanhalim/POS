@@ -61,13 +61,13 @@ class DatabaseSeeder extends Seeder
         ]);
 
         Supplier::create([
-            'supplier'  => 'Toko 51 Baledono',
-            'alamat'    => 'Baledono, Purworejo',
+            'supplier'  => 'Toko Jino',
+            'alamat'    => 'Jakarta',
             'user_id'   => 1
         ]);
         Supplier::create([
-            'supplier'  => 'Toko Daya Agung Purworejo',
-            'alamat'    => 'Baledono, Purworejo',
+            'supplier'  => 'Toko Koria',
+            'alamat'    => 'Bandung',
             'user_id'   => 1
         ]);
 
