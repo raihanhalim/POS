@@ -100,8 +100,8 @@ Demo Login :
     - password  : 1234
 2. Kasir
     - email     : kasir@gmail.com
-    - password  : 1111
+    - password  : 1234
 3. Kepala Toko / Owner Toko
-    - email     : abdul@gmail.com
-    - password  : 1111
+    - email     : neko@gmail.com
+    - password  : 1234
 
